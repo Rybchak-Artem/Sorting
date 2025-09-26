@@ -12,5 +12,4 @@ for(let start = 0; start < numArr.length - 1; start++) {
         }
     }
 }
-console.log(`start`)
 console.log(numArr)
